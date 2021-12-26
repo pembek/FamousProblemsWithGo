@@ -1,0 +1,1 @@
+Some implementations (preferably with tests) of common Computer Science problems with Go lang.
